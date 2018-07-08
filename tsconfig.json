@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"outFile": "site/js/discodog.js",
+		"sourceMap": true,
+		"declaration": true
+	},
+	"include": [
+		"src/main/typescript/**/*"		
+	],
+	"exclude": [
+	]
+}

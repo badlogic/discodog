@@ -1,0 +1,10 @@
+{{include raw "_normalize.css"}}
+
+/* Use border-box box sizing everywhere */
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}

@@ -40,4 +40,4 @@ var discodog;
     }());
     discodog.DiscodogApp = DiscodogApp;
 })(discodog || (discodog = {}));
-//# sourceMappingURL=discodog.js.map
+//# sourceMappingURL=code.js.map
